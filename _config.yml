@@ -22,11 +22,13 @@ show_sidebar: false        # show a sidebar instead of the usual header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
 #  - {url: "/Felipegalind0_resume.pdf", title: CV}
-  - {url: "http://UMN-VR.github.io", title: UMN-VR}
-  - {url: "https://github.com/sponsors/Felipegalind0", title: Sponsor Me 😊}
+  - {url: "http://skyscapeimaging.com/realstate", title: Virtual Real State Tours}
+  - {url: "http://skyscapeimaging.com/360videos", title: 360 Videos & VFX}
+  - {url: "http://skyscapeimaging.com/360photos", title: 360 Photography & Google Street View}
   - {file: "blog.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Join Us, url: "http://skyscapeimaging.com/jobs"}
   - {title: Mail, icon: envelope, url: "mailto:mailto:felipegalind0@outlook.com"}
   - {title: Github, icon: github, url: "https://github.com/Felipegalind0"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/Felipegalind0"}
